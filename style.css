@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background: linear-gradient(to right, rgb(146, 130, 240), rgb(245, 146, 146));
+    background: linear-gradient(to right, rgb(110, 194, 243), rgb(245, 146, 146));
     font-family: 'Trebuchet MS';
     color: rgb(253, 249, 249);
   }
@@ -36,4 +36,11 @@ body {
     margin: 10px;
     display: block;
     text-decoration: none;
+  }
+  .centro {
+    width: 320px;
+    margin-left: auto ;
+    margin-right: auto;
+    height: 50px;
+    padding: 10px;
   }
